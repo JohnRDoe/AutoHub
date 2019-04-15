@@ -20,17 +20,19 @@ PyCharm Community版，[点击下载PyCharm Community版](https://www.jetbrains.
 
 ## 基础技术
 
-- Python3
-- AirFlow
-- Robot Framework
-- pytest
-- Selenium Webdriver
-- Appium
-- Requests
-- DataTest
-- numpy
-- Pandas
-- scikit-learn and so on
+- [Python3](https://www.python.org/)
+- [AirFlow](http://airflow.apache.org/)
+- [Robot Framework](https://robotframework.org)
+- [pytest](https://docs.pytest.org/en/latest/)
+- [Selenium Webdriver](https://www.seleniumhq.org/)
+- [Appium](http://appium.io/)
+- [Requests](http://www.python-requests.org/en/master/)
+- [DataTest](https://datatest.readthedocs.io/en/stable/)
+- [numpy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org/)
+- [scikit-learn](https://scikit-learn.org/stable/) 
+
+and so on
 
 其他开源测试技术框架、工具等等
 
