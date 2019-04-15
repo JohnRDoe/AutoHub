@@ -14,6 +14,10 @@ AutoHub秉承“测试即代码”的理念，基于开源技术为中小企业�
 
 等等可进行自动化测试的场景
 
+## 开发工具
+
+PyCharm Community版，[点击下载PyCharm Community版](https://www.jetbrains.com/pycharm/download/)
+
 ## 基础技术
 
 - Python3
