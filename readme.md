@@ -14,6 +14,10 @@ AutoHub秉承“测试即代码”的理念，基于开源技术为中小企业�
 
 等等可进行自动化测试的场景
 
+## 草图
+
+![草图](./images/草图.png)
+
 ## 开发工具
 
 PyCharm Community版，[点击下载PyCharm Community版](https://www.jetbrains.com/pycharm/download/)
@@ -41,7 +45,7 @@ and so on
 
 本项目由苦叶子发起，你可以关注其公众号
 
-![开源优测](./images/开源优测.jpg)
+![开源优测](images/开源优测.jpg)
 
 ---
 
