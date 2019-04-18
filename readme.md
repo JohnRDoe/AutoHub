@@ -28,6 +28,7 @@ PyCharm Community版，[点击下载PyCharm Community版](https://www.jetbrains.
 - [AirFlow](http://airflow.apache.org/)
 - [Robot Framework](https://robotframework.org)
 - [pytest](https://docs.pytest.org/en/latest/)
+- [Faker](https://github.com/joke2k/faker)
 - [Selenium Webdriver](https://www.seleniumhq.org/)
 - [Appium](http://appium.io/)
 - [Requests](http://www.python-requests.org/en/master/)
