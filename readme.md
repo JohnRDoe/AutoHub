@@ -14,13 +14,30 @@ AutoHub秉承“测试即代码”的理念，基于开源技术为中小企业�
 
 等等可进行自动化测试的场景
 
-## 草图
+## 选型
 
-![草图](./images/草图.png)
+|说明|技术|
+|---|---|
+|IDE|Pycharm Community、Visual Studio Code、Eclipse|
+|协议分析|wireshark、httpwatch、fiddler、Charles|
+|前端分析|开发者工具、App Inspector、UI Automator Viewer、HierarchyViewer|
+|前端测试|appium、selenium webdriver、|
+|接口测试|requests、soapui、jmeter、gatling、postman|
+|数据测试|datatest|
+|大数据测试|pandas、scikit-learn、numpy、pyspark、superset|
+|性能测试|Jmeter、gatling|
+|安全测试|Appscan、Arachni、sqlmap|
+|源码检测|Sonar、findbugs、CheckStyles、PMD|
+|基础测试框架|unittest、pytest|
+|持续集成/交付|Airflow、Jenkins|
+|源码管理|git、svn|
+|基础服务|邮件通知、报告、监控、日志等服务|
 
 ## 开发工具
 
 PyCharm Community版，[点击下载PyCharm Community版](https://www.jetbrains.com/pycharm/download/)
+
+Visual Studio Code，[点击下载Visual Studio Code](https://code.visualstudio.com/)
 
 ## 基础技术
 
