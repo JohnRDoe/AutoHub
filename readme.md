@@ -4,6 +4,12 @@ AutoHub秉承“测试即代码”的理念，基于开源技术为构建的企�
 
 ![草图](./images/草图.png)
 
+jenkins pipeline stage view 如图所示
+![pipeline](./images/pipeline_view.png)
+
+测试报告 如图所示
+![report](./images/report.png)
+
 从应用场景来看，AutoHub将从以下层级提供解决方案：
 
 - Web UI自动化测试
@@ -23,14 +29,14 @@ AutoHub秉承“测试即代码”的理念，基于开源技术为构建的企�
 |IDE|Pycharm Community、Visual Studio Code、Eclipse|
 |协议分析|wireshark、httpwatch、fiddler、Charles|
 |前端分析|开发者工具、App Inspector、UI Automator Viewer、HierarchyViewer|
-|前端测试|appium、selenium webdriver、|
+|前端测试|appium、selenium webdriver、cypress|
 |接口测试|requests、soapui、jmeter、gatling、postman|
 |数据测试|datatest|
 |大数据测试|pandas、scikit-learn、numpy、pyspark、superset|
 |性能测试|Jmeter、gatling|
 |安全测试|Appscan、Arachni、sqlmap|
 |源码检测|Sonar、findbugs、CheckStyles、PMD|
-|基础测试框架|unittest、pytest|
+|基础测试框架|pytest|
 |持续集成/交付|Airflow、Jenkins|
 |源码管理|git、svn|
 |基础服务|邮件通知、报告、监控、日志等服务|
